@@ -1,0 +1,19 @@
+program started
+login successful
+find game
+game started
+check_game_quit error
+
+end game error
+
+stroke error
+
+program started
+check_game_quit error
+
+stroke error
+
+login successful
+program started
+login successful
+find game
